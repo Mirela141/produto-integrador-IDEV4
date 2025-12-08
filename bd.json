@@ -1,0 +1,89 @@
+{
+    "grupos": [
+        {
+            "nome": "Grupo Mirela",
+            "nome_integrantes": [
+                "Mirela",
+                "Prof Karime",
+                "Enzo",
+                "Gabriel Moreira"
+            ],
+            "praça_selecionada": "Praça del Vosges",
+            "lista_materiais": [
+                "Cola",
+                "E.V.A",
+                "Isopor",
+                "Tinta",
+                "Cola quente"
+            ]
+        },
+        {
+            "nome": "Grupo Larissa",
+            "nome_integrantes": [
+                "Larissa",
+                "Renata",
+                "Erick",
+                "Gabriel Augusto"
+            ],
+            "praça_selecionada": "Praça da Matriz",
+            "lista_materiais": [
+                "Cola",
+                "E.V.A",
+                "Isopor",
+                "Tinta",
+                "Cola quente"
+            ]
+        },
+        {
+            "nome": "Grupo Lavinia",
+            "nome_integrantes": [
+                "Lavinia",
+                "Mallcon",
+                "Joao Gugu",
+                "Kauanny"
+            ],
+            "praça_selecionada": "Praça do Japonês",
+            "lista_materiais": [
+                "Cola",
+                "E.V.A",
+                "Isopor",
+                "Tinta",
+                "Cola quente"
+            ]
+        },
+        {
+            "nome": "Grupo Emilly",
+            "nome_integrantes": [
+                "Emilly",
+                "Carol",
+                "Cauã",
+                "Sarah"
+            ],
+            "praça_selecionada": "Praça da Bíblia",
+            "lista_materiais": [
+                "Cola",
+                "E.V.A",
+                "Isopor",
+                "Tinta",
+                "Cola quente"
+            ]
+        },
+        {
+            "nome": "Grupo Murilo",
+            "nome_integrantes": [
+                "Murilo",
+                "Arthur",
+                "Joao Vitor",
+                "Caio"
+            ],
+            "praça_selecionada": "Praça das mães",
+            "lista_materiais": [
+                "Cola",
+                "E.V.A",
+                "Isopor",
+                "Tinta",
+                "Cola quente"
+            ]
+        }
+    ]
+}
